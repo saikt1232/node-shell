@@ -1,6 +1,8 @@
 # node-shell
 
-Npm install
+## Steps
 
-n 
+1) Npm install
+2) npm start
+ 
 
